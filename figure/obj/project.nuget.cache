@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "G+ZE5NfcFyBom8VDcKThEZXB+PdImISf/WjE50r+0m8PcbXRpkFufSqDPWZ3L7yxb9lsm+sYbvM4/d83TZUSMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Веталь\\Desktop\\С#\\дз\\figure\\figure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Веталь\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Веталь\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Веталь\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

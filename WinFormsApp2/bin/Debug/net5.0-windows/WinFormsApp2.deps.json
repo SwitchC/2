@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WinFormsApp2/1.0.0": {
+        "dependencies": {
+          "figure": "1.0.0"
+        },
+        "runtime": {
+          "WinFormsApp2.dll": {}
+        }
+      },
+      "figure/1.0.0": {
+        "runtime": {
+          "figure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsApp2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "figure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

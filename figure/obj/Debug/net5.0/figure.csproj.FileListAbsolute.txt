@@ -1,0 +1,12 @@
+C:\Users\Веталь\Desktop\С#\дз\figure\bin\Debug\net5.0\figure.deps.json
+C:\Users\Веталь\Desktop\С#\дз\figure\bin\Debug\net5.0\figure.dll
+C:\Users\Веталь\Desktop\С#\дз\figure\bin\Debug\net5.0\ref\figure.dll
+C:\Users\Веталь\Desktop\С#\дз\figure\bin\Debug\net5.0\figure.pdb
+C:\Users\Веталь\Desktop\С#\дз\figure\obj\Debug\net5.0\figure.csproj.AssemblyReference.cache
+C:\Users\Веталь\Desktop\С#\дз\figure\obj\Debug\net5.0\figure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Веталь\Desktop\С#\дз\figure\obj\Debug\net5.0\figure.AssemblyInfoInputs.cache
+C:\Users\Веталь\Desktop\С#\дз\figure\obj\Debug\net5.0\figure.AssemblyInfo.cs
+C:\Users\Веталь\Desktop\С#\дз\figure\obj\Debug\net5.0\figure.csproj.CoreCompileInputs.cache
+C:\Users\Веталь\Desktop\С#\дз\figure\obj\Debug\net5.0\figure.dll
+C:\Users\Веталь\Desktop\С#\дз\figure\obj\Debug\net5.0\ref\figure.dll
+C:\Users\Веталь\Desktop\С#\дз\figure\obj\Debug\net5.0\figure.pdb
